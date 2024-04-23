@@ -4,3 +4,4 @@ mydata
 logs
 mysql57/data
 mysql57/log
+.env
